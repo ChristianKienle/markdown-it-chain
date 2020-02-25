@@ -54,7 +54,7 @@
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.5",
     "markdown-it-table-of-contents": "^0.4.4",
-    "xo": "^0.25.3",
+    "xo": "^0.27.0",
     "release-it": "12.4.3",
     "babel-preset-env": "^1.7.0",
     "conventional-changelog-cli": "^2.0.25"
