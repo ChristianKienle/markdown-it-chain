@@ -48,7 +48,7 @@
     "node": ">=6.9"
   },
   "devDependencies": {
-    "eslint-plugin-jest": "^23.0.3",
+    "eslint-plugin-jest": "^24.1.0",
     "eslint-plugin-vue-libs": "^4.0.0",
     "jest-cli": "^24.9.0",
     "markdown-it": "^10.0.0",
